@@ -1,7 +1,7 @@
 # Example-of-Wiki
 This is an example of Wiki writing
 
-# Please check Wiki of this repository
+# Please check the Wiki Page (you can find it on the top bar under the name of the repository)
 
 Wiki page can help others in the organization to follow all projects and get to know what can they do if they want to give a hand.
 
